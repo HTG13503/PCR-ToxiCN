@@ -62,6 +62,18 @@ Haotan Guo, Jianfei He, Jiayuan Ma, Hongbin Na, Zimu Wang, Haiyang Zhang, Qi Che
 
 ## 📄 Citation
 
+If you want to use the resources, please consider citing:
+
+```bibtex
+@article{guo2025lost,
+  title={Lost in Pronunciation: Detecting Chinese Offensive Language Disguised by Phonetic Cloaking Replacement},
+  author={Guo, Haotan and He, Jianfei and Ma, Jiayuan and Na, Hongbin and Wang, Zimu and Zhang, Haiyang and Chen, Qi and Wang, Wei and Shi, Zijing and Shen, Tao and Chen, Ling},
+  journal={arXiv preprint arXiv:2507.07640},
+  year={2025},
+  url={https://arxiv.org/abs/2507.07640}
+}
+```
+
 ---
 
 ## ✉️ Contact
